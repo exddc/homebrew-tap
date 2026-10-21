@@ -1,8 +1,8 @@
 class Consuela < Formula
   desc "Reclaim disk space from Xcode leftovers, developer caches, and Docker"
   homepage "https://github.com/exddc/consuela"
-  url "https://github.com/exddc/consuela/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d4311866d942ba389b4d5bf2db24360e067717dd2613a1ad6931af210cce6f1e"
+  url "https://github.com/exddc/consuela/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "34a086c7cd8f07331661ebab3232c303f31ccbbcbe92a9ceb331c8d01a7fcfe3"
   license "MIT"
 
   depends_on :macos
